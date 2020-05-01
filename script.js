@@ -1,7 +1,7 @@
 // If absolute URL from the remote server is provided, configure the CORS
 // header on that server.
-var url = 'https://collegeshala-notes.s3.ap-south-1.amazonaws.com/8266defe-37ee-4376-9cd1-1753fdd4dfe5.pdf';
-
+//var url = 'https://collegeshala-notes.s3.ap-south-1.amazonaws.com/8266defe-37ee-4376-9cd1-1753fdd4dfe5.pdf';
+var url = 'https://collegeshala-notes.s3.ap-south-1.amazonaws.com/UGC_calendar_press_release.pdf';
 // Loaded via <script> tag, create shortcut to access PDF.js exports.
 var pdfjsLib = window['pdfjs-dist/build/pdf'];
 
